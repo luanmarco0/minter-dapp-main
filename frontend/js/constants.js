@@ -1,19 +1,19 @@
 const contractAddress = "0x4Dad965ce277B951a066303c104f257EC997610b"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the SliceWar Metaverse";
-const welcome_h2 = "Connect to MetaMask to Get your Slogger";
+const welcome_h1 = "Welcome to the Slice War Metaverse";
+const welcome_h2 = "Connect to MetaMask to get started!";
 const welcome_p = 'The Slice War Metaverse is a set of 4 collections based on your metaverse, where each NFT avatar is unique and randomly generated. The first intergalactic war has started and we will have only 1 winner, choose your side!';
-const h1_presale_coming_soon = "First © SliceWar Drop Coming Soon!!";
+const h1_presale_coming_soon = "©Sloggers Drop Coming Soon";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
-const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
-const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
-const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
+const p_presale_coming_soon = "Stay tuned for updates!";
+const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale...";
+const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale!";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
-const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
+const p_public_mint = "No whitelist needed. Public minting is now open!";
 const button_presale_coming_soon = "Get on the Whitelist";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
